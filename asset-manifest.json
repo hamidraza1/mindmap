@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mindmap/static/css/main.05f00f27.chunk.css",
+    "main.css": "/mindmap/static/css/main.5309797b.chunk.css",
     "main.js": "/mindmap/static/js/main.9792861d.chunk.js",
     "main.js.map": "/mindmap/static/js/main.9792861d.chunk.js.map",
     "runtime-main.js": "/mindmap/static/js/runtime-main.4435d2eb.js",
@@ -8,15 +8,15 @@
     "static/js/2.894cf507.chunk.js": "/mindmap/static/js/2.894cf507.chunk.js",
     "static/js/2.894cf507.chunk.js.map": "/mindmap/static/js/2.894cf507.chunk.js.map",
     "index.html": "/mindmap/index.html",
-    "precache-manifest.e743f4ac2b47fd4125fd3cb0ebba3cb8.js": "/mindmap/precache-manifest.e743f4ac2b47fd4125fd3cb0ebba3cb8.js",
+    "precache-manifest.17ca8c7bcb0d8f0305457e983abef064.js": "/mindmap/precache-manifest.17ca8c7bcb0d8f0305457e983abef064.js",
     "service-worker.js": "/mindmap/service-worker.js",
-    "static/css/main.05f00f27.chunk.css.map": "/mindmap/static/css/main.05f00f27.chunk.css.map",
+    "static/css/main.5309797b.chunk.css.map": "/mindmap/static/css/main.5309797b.chunk.css.map",
     "static/js/2.894cf507.chunk.js.LICENSE.txt": "/mindmap/static/js/2.894cf507.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4435d2eb.js",
     "static/js/2.894cf507.chunk.js",
-    "static/css/main.05f00f27.chunk.css",
+    "static/css/main.5309797b.chunk.css",
     "static/js/main.9792861d.chunk.js"
   ]
 }
